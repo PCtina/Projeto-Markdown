@@ -1,0 +1,13 @@
+[
+  {
+    "id": "builtin_group_id",
+    "name": "Currently Open Files",
+    "files": [
+      "src/markdown_compiler.py",
+      "src/backend.py",
+      "src/markos.py"
+    ],
+    "builtIn": true,
+    "bookmarks": {}
+  }
+]
